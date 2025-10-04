@@ -43,11 +43,11 @@ O resultado é um modelo dimensional que permite análises como:
 
 ### 📌 Modelo Relacional de Partida
 
-![Modelo Relacional](imagens/imagem_modelo_relacional.png)
+![Modelo Relacional](img/Diagrama_universidade.png)
 
 ### ⭐ Modelo Dimensional Finalizado (Star Schema)
 
-![Modelo Estrela](imagens/imagem_modelo_estrela.png)
+![Modelo Estrela](img/diagrama_estrela_universidade_professor.png)
 
 ---
 
