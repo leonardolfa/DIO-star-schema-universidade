@@ -51,5 +51,4 @@ O resultado é um modelo dimensional que permite análises como:
 
 ---
 
-## 📁 Estrutura do Projeto
 
